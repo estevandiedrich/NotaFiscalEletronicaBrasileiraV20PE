@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/barbecue-1.5-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/commons-io-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/groovy-all-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/itext-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/jasperreports-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/xstream-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/xercesImpl-2.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/pdfbox-0.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/nfe.jar" sourcepath="/NotaFiscalEletronicaBrasileiraV20"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/forms-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/dev.estevan/workspace-java/NotaFiscalEletronicaBrasileiraV20PE/lib/substance-3.3_01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

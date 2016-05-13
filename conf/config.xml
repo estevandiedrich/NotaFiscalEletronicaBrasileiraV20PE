@@ -1,0 +1,19 @@
+<config>
+	<enviNFeThreadSleep>5000</enviNFeThreadSleep>
+	<configVO>
+	  <portaRMI>1099</portaRMI>
+	  <orientacaoDanfe>R</orientacaoDanfe>
+	  <danfe>c:\filas\79911707000100\pe\79911707000100\danfe</danfe>
+	  <danfeFSDA>c:\filas\79911707000100\pe\79911707000100\danfeFSDA</danfeFSDA>
+	  <nroPaginas>1</nroPaginas>
+	  <nroPaginasFSDA>2</nroPaginasFSDA>
+	  <impressora>PDFCreator</impressora>		  
+	  <impressoraFSDA>PDFCreator</impressoraFSDA>		  
+	  <logoDanfe>../conf/branco.gif</logoDanfe>
+	  <xmlCompactado>C:\filas\79911707000100\pe\79911707000100\enviNFe\xmlCompactados</xmlCompactado>
+	  <xmlCompactadoFSDA>C:\filas\79911707000100\pe\79911707000100\enviNFe\xmlCompactadosFSDA</xmlCompactadoFSDA>
+	  <enviNFeXMLProcessados>C:\filas\79911707000100\pe\79911707000100\enviNFe\xmlProcessados</enviNFeXMLProcessados>
+	  <enviNFeXMLProcessadosFSDA>C:\filas\79911707000100\pe\79911707000100\enviNFe\xmlProcessadosFSDA</enviNFeXMLProcessadosFSDA>
+	  <razaoSocial>Teste de razao social</razaoSocial>
+	</configVO>
+</config>

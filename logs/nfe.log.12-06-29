@@ -1,0 +1,100 @@
+[29/06/2012 09:53:40] Main [INFO] Aplicação iniciada
+[29/06/2012 09:53:41] Config [INFO] Carregando configuração
+[29/06/2012 09:53:41] DescompactaNFeThread [INFO] Iniciando thread DescompactaNFeThread
+[29/06/2012 09:53:41] DescompactaNFeFSDAThread [INFO] Iniciando thread DescompactaNFeFSDAThread
+[29/06/2012 09:53:41] FileManager [INFO] Recebendo arquivos ZIP
+[29/06/2012 09:53:41] DanfeThread [INFO] Iniciando thread DanfeThread
+[29/06/2012 09:53:41] DanfeFSDAThread [INFO] Iniciando thread DanfeFSDAThread
+[29/06/2012 09:53:41] ImprimirPDFThread [INFO] Iniciando thread ImprimirPDFThread
+[29/06/2012 09:53:41] ImprimirPDFThread [INFO] Iniciando thread ImprimirPDFFSDAThread
+[29/06/2012 09:53:41] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 09:53:41] FileManager [INFO] Recebendo arquivos PDF
+[29/06/2012 09:53:41] FileManager [INFO] Arquivos PDF recebidos
+[29/06/2012 09:53:41] FileManager [INFO] Recebendo arquivos PDF
+[29/06/2012 09:53:41] FileManager [INFO] Arquivos PDF recebidos
+[29/06/2012 09:53:41] FileManager [INFO] Recebendo arquivos XML
+[29/06/2012 09:53:41] ImprimirPDFThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.print.ImprimirPDFFSDAThread.run(ImprimirPDFFSDAThread.java:27)
+[29/06/2012 09:53:41] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 09:53:41] DanfeFSDAThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.pdf.DanfeFSDAThread.run(DanfeFSDAThread.java:30)
+[29/06/2012 09:53:41] FileManager [INFO] Recebendo arquivos XML
+[29/06/2012 09:53:41] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 09:53:41] FileManager [INFO] Recebendo arquivos ZIP
+[29/06/2012 09:53:41] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 09:53:41] DescompactaNFeFSDAThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.zip.DescompactaNFeFSDAThread.run(DescompactaNFeFSDAThread.java:23)
+[29/06/2012 09:53:46] FileManager [INFO] Recebendo arquivos ZIP
+[29/06/2012 09:53:46] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 09:53:46] FileManager [INFO] Recebendo arquivos PDF
+[29/06/2012 09:53:46] FileManager [INFO] Arquivos PDF recebidos
+[29/06/2012 09:53:46] FileManager [INFO] Recebendo arquivos PDF
+[29/06/2012 09:53:46] FileManager [INFO] Arquivos PDF recebidos
+[29/06/2012 09:53:46] ImprimirPDFThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.print.ImprimirPDFFSDAThread.run(ImprimirPDFFSDAThread.java:27)
+[29/06/2012 09:53:46] FileManager [INFO] Recebendo arquivos XML
+[29/06/2012 09:53:46] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 09:53:46] DanfeFSDAThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.pdf.DanfeFSDAThread.run(DanfeFSDAThread.java:30)
+[29/06/2012 09:53:46] FileManager [INFO] Recebendo arquivos XML
+[29/06/2012 09:53:46] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 09:53:46] FileManager [INFO] Recebendo arquivos ZIP
+[29/06/2012 09:53:46] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 09:53:46] DescompactaNFeFSDAThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.zip.DescompactaNFeFSDAThread.run(DescompactaNFeFSDAThread.java:23)
+[29/06/2012 11:45:48] Main [INFO] Aplicação iniciada
+[29/06/2012 11:45:48] Config [INFO] Carregando configuração
+[29/06/2012 11:45:48] DescompactaNFeThread [INFO] Iniciando thread DescompactaNFeThread
+[29/06/2012 11:45:48] DescompactaNFeFSDAThread [INFO] Iniciando thread DescompactaNFeFSDAThread
+[29/06/2012 11:45:48] FileManager [INFO] Recebendo arquivos ZIP
+[29/06/2012 11:45:48] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 11:45:48] FileManager [INFO] Recebendo arquivos ZIP
+[29/06/2012 11:45:48] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 11:45:48] DanfeThread [INFO] Iniciando thread DanfeThread
+[29/06/2012 11:45:48] FileManager [INFO] Recebendo arquivos XML
+[29/06/2012 11:45:48] DanfeFSDAThread [INFO] Iniciando thread DanfeFSDAThread
+[29/06/2012 11:45:48] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 11:45:48] FileManager [INFO] Recebendo arquivos XML
+[29/06/2012 11:45:48] DescompactaNFeFSDAThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.zip.DescompactaNFeFSDAThread.run(DescompactaNFeFSDAThread.java:23)
+[29/06/2012 11:45:48] ImprimirPDFThread [INFO] Iniciando thread ImprimirPDFFSDAThread
+[29/06/2012 11:45:48] ImprimirPDFThread [INFO] Iniciando thread ImprimirPDFThread
+[29/06/2012 11:45:48] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 11:45:48] FileManager [INFO] Recebendo arquivos PDF
+[29/06/2012 11:45:48] DanfeFSDAThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.pdf.DanfeFSDAThread.run(DanfeFSDAThread.java:30)
+[29/06/2012 11:45:48] FileManager [INFO] Arquivos PDF recebidos
+[29/06/2012 11:45:48] FileManager [INFO] Recebendo arquivos PDF
+[29/06/2012 11:45:48] FileManager [INFO] Arquivos PDF recebidos
+[29/06/2012 11:45:48] ImprimirPDFThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.print.ImprimirPDFFSDAThread.run(ImprimirPDFFSDAThread.java:27)
+[29/06/2012 11:45:53] FileManager [INFO] Recebendo arquivos ZIP
+[29/06/2012 11:45:53] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 11:45:53] FileManager [INFO] Recebendo arquivos XML
+[29/06/2012 11:45:53] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 11:45:53] FileManager [INFO] Recebendo arquivos ZIP
+[29/06/2012 11:45:53] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 11:45:53] DescompactaNFeFSDAThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.zip.DescompactaNFeFSDAThread.run(DescompactaNFeFSDAThread.java:23)
+[29/06/2012 11:45:53] FileManager [INFO] Recebendo arquivos XML
+[29/06/2012 11:45:53] FileManager [INFO] Arquivos XML recebidos
+[29/06/2012 11:45:53] DanfeFSDAThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.pdf.DanfeFSDAThread.run(DanfeFSDAThread.java:30)
+[29/06/2012 11:45:53] FileManager [INFO] Recebendo arquivos PDF
+[29/06/2012 11:45:53] FileManager [INFO] Arquivos PDF recebidos
+[29/06/2012 11:45:53] FileManager [INFO] Recebendo arquivos PDF
+[29/06/2012 11:45:53] FileManager [INFO] Arquivos PDF recebidos
+[29/06/2012 11:45:53] ImprimirPDFThread [ERROR] Erro não capturado
+java.lang.NullPointerException
+	at br.com.hs.nfe.pe.print.ImprimirPDFFSDAThread.run(ImprimirPDFFSDAThread.java:27)

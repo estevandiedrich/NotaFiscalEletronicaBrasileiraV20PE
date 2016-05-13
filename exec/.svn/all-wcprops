@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec
+END
+PauseNFePEWrapper-NT.bat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec/PauseNFePEWrapper-NT.bat
+END
+StartNFePEWrapper-NT.bat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec/StartNFePEWrapper-NT.bat
+END
+wrapper.exe
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec/wrapper.exe
+END
+NFePEWrapperCommand.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec/NFePEWrapperCommand.bat
+END
+NFePEWrapper.bat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec/NFePEWrapper.bat
+END
+ResumeNFePEWrapper-NT.bat
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec/ResumeNFePEWrapper-NT.bat
+END
+QueryNFePEWrapper-NT.bat
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec/QueryNFePEWrapper-NT.bat
+END
+StopNFePEWrapper-NT.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec/StopNFePEWrapper-NT.bat
+END
+InstallNFePEWrapper-NT.bat
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec/InstallNFePEWrapper-NT.bat
+END
+UninstallNFePEWrapper-NT.bat
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec/UninstallNFePEWrapper-NT.bat
+END
+nfepeconf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/eurekatablet/!svn/ver/17/NotaFiscalEletronicaBrasileiraV20PE/exec/nfepeconf.jar
+END
